@@ -1,5 +1,4 @@
-# presentations
-Research project presentations.
+# Research Project Posters and Presentations
 
 Stevens Tech. Summer Scholars Innovation and Entrepreneurship Research Competition Poster, 2019 and 2020
 
